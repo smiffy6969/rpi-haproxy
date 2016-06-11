@@ -1,4 +1,4 @@
-# ulsmith/rpi-haproxy:1.6.5
+# ulsmith/rpi-haproxy
 
 Raspberry pi image for standard off the shelf haproxy @ 1.6.5.
 
